@@ -1,1 +1,1 @@
-# AI-Disaccharide-Isomers-Identification
+# AI-Aided Identification of Disaccharide Constitutional and Regioisomers. A total of eight disaccharides, three constitutional isomers, sucrose, lactose, maltose, and six regioisomers of α-D-glucopyranosyl-D-fructose, namely, trehalulose, turanose, maltulose, leucrose, and isomaltulose are considered. 
